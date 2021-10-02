@@ -1,2 +1,2 @@
-Taller Introducción a git y github 2021
+Taller Introducción a git y github de la materia
 Seminario de Computación I
